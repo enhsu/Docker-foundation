@@ -1,4 +1,4 @@
-# Linus Command Line
+# Linux Command Line
 
 ## Navigation
 
