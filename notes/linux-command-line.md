@@ -2,22 +2,22 @@
 
 ## Navigation
 
-- [Linux Distributions](#linux-distributions)
-- [Running Linux By Docker](#running-linux-by-docker)
-- [Managing Packages](#managing-packages)
-- [Linux File System](#linux-file-system)
-- [Navigating the File System](#navigating-the-file-system)
-- [Manipulating Files and Directories](#manipulating-files-and-directories)
-- [Editing and Viewing Files](#editing-and-viewing-files)
-- [Redirection](#redirection)
-- [Searching for Text in File](#searching-for-text-in-file)
-- [Finding Files and Directories](#finding-files-and-directories)
-- [Chaining Commands](#chaining-commands)
-- [Environment Variables](#environment-variables)
-- [Managing Processes](#managing-processes)
-- [Managing Users](#managing-users)
-- [Managing Groups](#managing-groups)
-- [File Permissions](#file-permissions)
+1. [Linux Distributions](#linux-distributions)
+1. [Running Linux By Docker](#running-linux-by-docker)
+1. [Managing Packages](#managing-packages)
+1. [Linux File System](#linux-file-system)
+1. [Navigating the File System](#navigating-the-file-system)
+1. [Manipulating Files and Directories](#manipulating-files-and-directories)
+1. [Editing and Viewing Files](#editing-and-viewing-files)
+1. [Redirection](#redirection)
+1. [Searching for Text in File](#searching-for-text-in-file)
+1. [Finding Files and Directories](#finding-files-and-directories)
+1. [Chaining Commands](#chaining-commands)
+1. [Environment Variables](#environment-variables)
+1. [Managing Processes](#managing-processes)
+1. [Managing Users](#managing-users)
+1. [Managing Groups](#managing-groups)
+1. [File Permissions](#file-permissions)
 
 ## Linux Distributions
 

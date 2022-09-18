@@ -2,6 +2,7 @@
 
 1. [Introduction to Docker](./notes/introduction-to-docker.md)
 1. [Linux command line](./notes/linux-command-line.md)
+1. [Building Images](./notes/building-images.md)
 
 ## Sheet
 

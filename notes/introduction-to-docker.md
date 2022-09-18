@@ -2,12 +2,12 @@
 
 ## Navigation
 
-- [What is Docker?](#what-is-docker)
-- [Virtual Machines vs Containers](#virtual-machinesvm-vs-containers)
-- [Architecture of Docker](#docker-architecture)
-- [Installing Docker](#installing-docker)
-- [Development workflow](#development-workflow)
-- [Example](#example)
+1. [What is Docker?](#what-is-docker)
+1. [Virtual Machines vs Containers](#virtual-machinesvm-vs-containers)
+1. [Architecture of Docker](#docker-architecture)
+1. [Installing Docker](#installing-docker)
+1. [Development workflow](#development-workflow)
+1. [Example](#example)
 
 ## What is Docker
 
